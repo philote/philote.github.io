@@ -1,4 +1,4 @@
-# Hi there, I'm Joe (aka Philote)! 👋
+# Hi there, I'm Joe (aka philote or ephson)! 👋
 
 ## About Me
 I'm a seasoned developer with a love for building cool and accessible tech. From dynamic startups to established companies, I've had the joy of crafting intuitive, user-friendly experiences. When I'm not coding, you can find me traveling or diving into a tabletop roleplaying game.
